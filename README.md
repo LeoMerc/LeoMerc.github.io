@@ -1,3 +1,5 @@
+
+
 ![image](https://user-images.githubusercontent.com/81432796/191140570-8b753977-71cf-4c52-b430-abef6c5e5529.png)
 
 Lidar es una tecnología muy utilizada en medición geoespacial que permite obtener datos topográficos precisos para elaborar mapas y modelos de terreno. Sus siglas en inglés Light Detection and Ranging nos indican que es capaz de detectar las distancias la luz (de un láser mediante).
@@ -32,9 +34,17 @@ Sector de la construcción (arquitectura e ingeniería): la inmediatez y precisi
 ![image](https://user-images.githubusercontent.com/81432796/191140883-635411de-774c-4992-b45f-e86847baaf06.png)
 
 Geología: se utiliza para la detección de movimientos de fallas y placas tectónicas de la corteza terrestre y así predecir posibles catástrofes naturales (terremotos, erupciones volcánicas, glaciares, etc.).
+![image](https://user-images.githubusercontent.com/81432796/191141143-5bb2d6bf-ac7a-4a8d-baa7-9ca6a14a2de3.png)
 
 Arqueología: en trabajos arqueológicos también se puede utilizar esta tecnología porque es capaz de descubrir desde el aire todo tipo de objetos.
+![image](https://user-images.githubusercontent.com/81432796/191141170-b0e45255-4b0f-45ff-9f5e-eacb77f9fc04.png)
 
 Aparte de estas aplicaciones en sectores concretos, Lidar también tiene otros usos adaptados a mejorar la vida de las personas. Por ejemplo, se está utilizando para el desarrollo de vehículos autónomos, para el control de fronteras y otras operaciones relacionadas con la seguridad, la extinción de incendios o la optimización, cálculo de volúmenes y superficies de explotaciones mineras, entre otros muchos usos.
 
 En Drónica disponemos de la última tecnología del mercado en Lidar y otras herramientas para llevar a cabo las mediciones que necesita tu proyecto. Contacta con nosotros y cuéntanos qué necesitas.
+
+
+Referencias: 
+¿Qué es un lidar y para qué se utiliza? (2021, 12 marzo). Drónica. Recuperado 19 de septiembre de 2022, de https://www.dronica.es/blog-de-escaneo-3d/que-es-un-lidar-y-para-que-se-utiliza/
+
+Qué es un LIDAR y cómo funciona el sensor más caro de los coches autónomos. (2021, 9 marzo). Motorpasión. Recuperado 19 de septiembre de 2022, de https://www.motorpasion.com/tecnologia/que-es-un-lidar-y-como-funciona-el-sistema-de-medicion-y-deteccion-de-objetos-mediante-laser
