@@ -1,10 +1,12 @@
+![Cool Text - LIDAR 419635439930057](https://user-images.githubusercontent.com/81432796/191142272-4f2c4a73-be10-4852-ba18-618160a36f02.png)
 
 
-![image](https://user-images.githubusercontent.com/81432796/191140570-8b753977-71cf-4c52-b430-abef6c5e5529.png)
+
 
 Lidar es una tecnología muy utilizada en medición geoespacial que permite obtener datos topográficos precisos para elaborar mapas y modelos de terreno. Sus siglas en inglés Light Detection and Ranging nos indican que es capaz de detectar las distancias la luz (de un láser mediante).
 
 Su funcionamiento es muy simple. Lidar usa un láser para calcular la distancia de un objeto a la superficie terrestre. El láser emite un impulso de luz sobre una superficie y mide el tiempo que tarda en regresar a la fuente. Este proceso se repite millones de veces generando una nube de puntos 3D muy precisa de la zona gracias a los impulsos de luz y la información proporcionada por el GPS.
+![image](https://user-images.githubusercontent.com/81432796/191140570-8b753977-71cf-4c52-b430-abef6c5e5529.png)
 
 Como funciona?
 
